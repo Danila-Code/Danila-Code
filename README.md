@@ -10,4 +10,4 @@
 
 ### Контакты для связи:
 * telegram: [danilov_dan](https://t.me/danilov_dan)
-* e-mail: darzp4ig@yandex.ru
+* e-mail: Danila-Code@yandex.ru
