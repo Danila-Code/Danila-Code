@@ -9,5 +9,5 @@ C++, C++17, C++20, STL, Qt, ООП, move semantics, smart pointers, RAII, async,
 MinGW, VS Code, MS Visual Studio, Git, CMake
 
 ### Контакты для связи:
-* telegram: danilov_dan
+* telegram: [danilov_dan](https://t.me/danilov_dan)
 * e-mail: darzp4ig@yandex.ru
