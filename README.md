@@ -11,3 +11,7 @@
 ### Контакты для связи:
 * telegram: [danilov_dan](https://t.me/danilov_dan)
 * e-mail: Danila-Code@yandex.ru
+
+### Проекты в разработке:
+* [Аппроксиматор](https://github.com/Danila-Code/cpp-approximator) описывает данные с помощью полинома
+* [Эхо-сервер](https://github.com/Danila-Code/cpp-echo-server) отсылает полученное сообщение обратно
