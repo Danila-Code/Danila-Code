@@ -14,4 +14,4 @@
 
 ### Проекты в разработке:
 * [Аппроксиматор](https://github.com/Danila-Code/cpp-approximator) описывает данные с помощью полинома
-* [Эхо-сервер](https://github.com/Danila-Code/cpp-echo-server) отсылает полученное сообщение обратно
+* [Веб-сервер](https://github.com/Danila-Code/cpp-web-server) отвечает на HTTP запросы браузера
