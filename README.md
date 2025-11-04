@@ -5,6 +5,7 @@
 * C++, C++17, C++20, STL,
 * ООП, move semantics, smart pointers, RAII, async, regex,
 * JSON, SVG, XML, BMP, JPG, PPM,
+* socket, HTTP
 * Qt, VS Code, MS Visual Studio,
 * MinGW, Git, CMake
 
