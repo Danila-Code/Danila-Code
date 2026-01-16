@@ -6,7 +6,7 @@
 * STL, Boost.Asio
 * ООП, move semantics, smart pointers, RAII, async, regex,
 * SQL, JSON, SVG, XML, BMP, JPG, PPM,
-* socket, HTTP
+* SQLite3, OpenSSL, MurmurHash
 * Qt, VS Code, MS Visual Studio,
 * MinGW, Git, GitHub, CMake
 
