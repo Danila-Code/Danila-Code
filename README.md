@@ -8,7 +8,7 @@
 * SQL, JSON, SVG, XML, BMP, JPG, PPM,
 * SQLite3, OpenSSL, MurmurHash
 * Qt, VS Code, MS Visual Studio,
-* MinGW, Git, GitHub, CMake
+* MinGW, Git, GitHub, CMake, Conan
 
 ### Контакты для связи:
 * telegram: [danilov_dan](https://t.me/danilov_dan)
