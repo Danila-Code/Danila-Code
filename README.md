@@ -7,6 +7,7 @@
 * ООП, move semantics, smart pointers, RAII, async, regex,
 * SQL, JSON, SVG, XML, BMP, JPG, PPM,
 * SQLite3, OpenSSL, MurmurHash
+* GTest
 * Qt, VS Code, MS Visual Studio,
 * MinGW, Git, GitHub, CMake, Conan
 
@@ -17,7 +18,6 @@
 ### Проекты в разработке:
 * [Радиатор](https://github.com/Danila-Code/cpp-radiator) расчёт температурного поля ребристого радиатора
 * [Аппроксиматор](https://github.com/Danila-Code/cpp-approximator) описывает данные с помощью полинома
-* [Веб-сервер](https://github.com/Danila-Code/cpp-web-server) отвечает на HTTP запросы браузера
 
 ### Пет-проекты:
 * [Модификатор файлов](https://github.com/Danila-Code/cpp-file-modificator) модифицирует (шифрует) файлы 8-байтовым ключом (графический интерфейс)
