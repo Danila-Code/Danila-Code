@@ -3,12 +3,12 @@
 
 ### Технологии и инструменты, которые я использую:
 * C++, C++17, C++20,
-* STL, Boost.Asio
-* ООП, move semantics, smart pointers, RAII, async, regex,
+* STL, Boost.Asio, Qt
+* ООП, multithreading,move semantics, smart pointers, RAII, async, regex,
 * SQL, JSON, SVG, XML, BMP, JPG, PPM,
-* SQLite3, OpenSSL, MurmurHash
-* GTest
-* Qt, VS Code, MS Visual Studio,
+* SQLite3, OpenSSL, MurmurHash,
+* GTest,
+* Qt Creator, VS Code, MS Visual Studio,
 * MinGW, Git, GitHub, CMake, Conan
 
 ### Контакты для связи:
