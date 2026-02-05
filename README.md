@@ -15,6 +15,9 @@
 * telegram: [danilov_dan](https://t.me/danilov_dan)
 * e-mail: Danila-Code@yandex.ru
 
+### Командные проекты:
+* [Сервис пуш-рассылки] (https://github.com/Danila-Code/Push-Cpp) клиент-серверное приложение для рассылки клиентам пуш-сообщений с разными приоритетами
+
 ### Проекты в разработке:
 * [Радиатор](https://github.com/Danila-Code/cpp-radiator) расчёт температурного поля ребристого радиатора
 * [Аппроксиматор](https://github.com/Danila-Code/cpp-approximator) описывает данные с помощью полинома
