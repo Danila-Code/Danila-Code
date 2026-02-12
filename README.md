@@ -4,7 +4,7 @@
 ### Технологии и инструменты, которые я использую:
 * C++, C++17, C++20,
 * STL, Boost.Asio, Qt
-* ООП, multithreading,move semantics, smart pointers, RAII, async, regex,
+* ООП, multithreading, move semantics, smart pointers, RAII, async, regex,
 * SQL, JSON, SVG, XML, BMP, JPG, PPM,
 * SQLite3, OpenSSL, MurmurHash,
 * GTest,
